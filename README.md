@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @belalsamyyy
-- 👀 I’m interested in iOS Development
+- 👋 Hi, I’m Belal Samy
+- 👀 I’m interested in Mobile App Development, specially iOS Development
 - 🌱 I’m currently learning Unit Testing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any awesome idea 👌
+- 📫 How to reach me ... `@belalsamyyy` in all social media platforms
 
 <!---
 belalsamyyy/belalsamyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
