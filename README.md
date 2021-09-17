@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Unit Testing
 - 💞️ I’m looking to collaborate on any awesome idea 👌
 - 🔥 to follow me `@belalsamyyy` in all social media platforms
-- 📫 to reach me send an email to `belalsamy10@gamil.com`
+- 📫 to reach me send an email to `belalsamy10@gmail.com`
 
 <!---
 belalsamyyy/belalsamyyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
